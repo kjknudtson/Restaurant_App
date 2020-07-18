@@ -1,0 +1,23 @@
+{
+  "name": "restaurantapp",
+  "version": "1.0.0",
+  "description": "App that holds restaurant waiting list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjknudtson/Restaurant_App.git"
+  },
+  "author": "Chris, Tammy, Kenneth, Kyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjknudtson/Restaurant_App/issues"
+  },
+  "homepage": "https://github.com/kjknudtson/Restaurant_App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
